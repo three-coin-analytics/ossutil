@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/aliyun/ossutil/lib"
+	"github.com/three-coin-analytics/ossutil/lib"
 )
 
 func main() {
